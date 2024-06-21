@@ -28,3 +28,4 @@ Now change the password parameter and send the request check in the response whe
 
 ![image](https://github.com/kashrathod19/Insecure-CAPTCHA-DVWA-SOLUTION/assets/54115061/15438256-b92a-412e-a556-a3229da53dd5)
 
+# Insecure CAPTCHA (HIGH)
